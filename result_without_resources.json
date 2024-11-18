@@ -1,0 +1,37 @@
+{
+    "name": "John Doe",
+    "title": "Software Engineer",
+    "location": "San Francisco, CA, USA",
+    "linkedin": "https://www.linkedin.com/in/johndoe",
+    "github": "https://github.com/johndoe",
+    "contact": "(123) 456-7890",
+    "email": "john.doe@example.com",
+    "summary": "Driven software engineer with 5 years of experience in developing innovative solutions for web and mobile applications. Proficient in JavaScript, React, and Node.js with a strong background in Agile methodologies.",
+    "years_of_experience": 5,
+    "seniority": "Mid",
+    "work_experience": [
+        {
+            "company_name": "Tech Innovations Inc.",
+            "position": "Software Developer",
+            "duration_years": 3,
+            "achievements": [
+                "Developed a scalable e-commerce platform with React and Redux",
+                "Led a team of 4 in migrating legacy systems to microservices architecture",
+                "Implemented a CI/CD pipeline which reduced deployment time by 50%"
+            ]
+        },
+        {
+            "company_name": "Web Solutions Group",
+            "position": "Junior Developer",
+            "duration_years": 2,
+            "achievements": [
+                "Collaborated on the development of a mobile app MVP, reaching over 10,000 users",
+                "Enhanced API performance by 30% by optimizing database queries"
+            ]
+        }
+    ],
+    "education": "B.S. in Computer Science, University of California, Berkeley, 2018",
+    "skills": "JavaScript, React, Node.js, HTML, CSS, RESTful APIs, Git, Agile methodologies",
+    "certifications": "Certified ScrumMaster (CSM), AWS Certified Developer – Associate",
+    "projects": "Developed an open-source project 'TaskManager' for task tracking, available on GitHub"
+}
